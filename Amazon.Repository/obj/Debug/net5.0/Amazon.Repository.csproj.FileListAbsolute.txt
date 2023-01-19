@@ -1,0 +1,135 @@
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 1 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 2 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 3 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 4 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 5 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 6 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Debug\net5.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Debug\net5.0\ref\Amazon.Repository.dll

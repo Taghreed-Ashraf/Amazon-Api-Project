@@ -1,0 +1,150 @@
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\appsettings.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.staticwebassets.runtime.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.exe
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.runtimeconfig.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Humanizer.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Stripe.net.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Services.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Services.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\scopedcss\bundle\Amazon.API.styles.css
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\refint\Amazon.API.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.genruntimeconfig.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\ref\Amazon.API.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\appsettings.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.staticwebassets.runtime.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.exe
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.deps.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.runtimeconfig.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.API.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Humanizer.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Stripe.net.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Core.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Services.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Services.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\bin\Debug\net6.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.AssemblyInfo.cs
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\scopedcss\bundle\Amazon.API.styles.css
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.csproj.CopyComplete
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\refint\Amazon.API.dll
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.pdb
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\Amazon.API.genruntimeconfig.cache
+E:\Course\Asp.Net\Assignment\API\Assignment 7 API\Amazon.API Solution\Amazon.API\obj\Debug\net6.0\ref\Amazon.API.dll

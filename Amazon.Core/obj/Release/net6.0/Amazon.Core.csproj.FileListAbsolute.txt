@@ -1,0 +1,12 @@
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\bin\Release\net6.0\Amazon.Core.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\bin\Release\net6.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\bin\Release\net6.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\refint\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Core\obj\Release\net6.0\ref\Amazon.Core.dll

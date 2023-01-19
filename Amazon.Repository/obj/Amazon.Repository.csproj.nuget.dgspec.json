@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Repository\\Amazon.Repository.csproj": {}
+  },
+  "projects": {
+    "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Core\\Amazon.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Core\\Amazon.Core.csproj",
+        "projectName": "Amazon.Core",
+        "projectPath": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Core\\Amazon.Core.csproj",
+        "packagesPath": "C:\\Users\\Tota\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.86, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Repository\\Amazon.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Repository\\Amazon.Repository.csproj",
+        "projectName": "Amazon.Repository",
+        "projectPath": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Repository\\Amazon.Repository.csproj",
+        "packagesPath": "C:\\Users\\Tota\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Core\\Amazon.Core.csproj": {
+                "projectPath": "E:\\Course\\Asp.Net\\Assignment\\API\\Assignment 7 API\\Amazon.API Solution\\Amazon.Core\\Amazon.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

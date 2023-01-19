@@ -1,0 +1,15 @@
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Release\net6.0\Amazon.Repository.deps.json
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Release\net6.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Release\net6.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Release\net6.0\Amazon.Core.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\bin\Release\net6.0\Amazon.Core.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.csproj.AssemblyReference.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.AssemblyInfoInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.AssemblyInfo.cs
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.csproj.CopyComplete
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\refint\Amazon.Repository.dll
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\Amazon.Repository.pdb
+E:\Course\Asp.Net\Lectures\Ahmed Nasr\08 ASP .Net Web API\Code Session\Session 7 API\Amazon.API Solution\Amazon.Repository\obj\Release\net6.0\ref\Amazon.Repository.dll
